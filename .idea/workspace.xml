@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb997cf5-74bd-47c3-936b-f9a48520f56b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1awsIOu3rrYQQs2ao1RKtdpAwQW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HttpOperatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="httpOperator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.moonactive.automation.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.moonactive.automation.api" />
+      <option name="MAIN_CLASS_NAME" value="com.moonactive.automation.api.HttpOperatorTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HttpOperatorTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb997cf5-74bd-47c3-936b-f9a48520f56b" name="Default Changelist" comment="" />
+      <created>1587657909972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587657909972</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="76" key="#Project_Structure" timestamp="1587678820784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="76" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1587678820784" />
+    <state x="539" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587902676893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="539" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1587902676893" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1587724651138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587724651138" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587857349365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1587857349365" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587858155427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1587858155426" />
+    <state x="598" y="120" key="#xdebugger.evaluate" timestamp="1587902589742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="598" y="120" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1587902589742" />
+    <state width="426" height="466" key="DebuggerActiveHint" timestamp="1587860268577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="426" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1587860268577" />
+    <state x="623" y="167" key="FileChooserDialogImpl" timestamp="1587686551480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="623" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587686551480" />
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1587903875784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587903875784" />
+    <state width="1493" height="202" key="GridCell.Tab.0.center" timestamp="1587903875783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587903875783" />
+    <state width="1493" height="202" key="GridCell.Tab.0.left" timestamp="1587903875783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587903875783" />
+    <state width="1493" height="202" key="GridCell.Tab.0.right" timestamp="1587903875783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587903875783" />
+    <state width="1493" height="207" key="GridCell.Tab.1.bottom" timestamp="1587903366598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587903366598" />
+    <state width="1493" height="207" key="GridCell.Tab.1.center" timestamp="1587903366598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587903366598" />
+    <state width="1493" height="207" key="GridCell.Tab.1.left" timestamp="1587903366597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587903366597" />
+    <state width="1493" height="207" key="GridCell.Tab.1.right" timestamp="1587903366598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587903366598" />
+    <state x="323" y="0" key="SettingsEditor" timestamp="1587886097609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="323" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587886097609" />
+    <state width="700" height="392" key="XDebugger.FullValuePopup" timestamp="1587723139957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="700" height="392" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1587723139957" />
+    <state x="529" y="177" key="extract.method.dialog" timestamp="1587894333453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="529" y="177" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587894333453" />
+    <state x="463" y="144" width="609" height="536" key="find.popup" timestamp="1587858255185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="144" width="609" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1587858255185" />
+    <state x="549" y="46" key="refactoring.ChangeSignatureDialog" timestamp="1587855564421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="46" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1587855564421" />
+    <state x="499" y="190" key="run.anything.popup" timestamp="1587686857277">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587686857277" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587725705665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587725705665" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/moonactive/automation/utils/FileUtil.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/moonactive/automation/api/HttpOperatorTest.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
